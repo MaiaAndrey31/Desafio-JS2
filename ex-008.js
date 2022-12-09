@@ -106,4 +106,4 @@ function cauculateDiscount(name, value, firstPurchase, cashPay){
 
 }
 
-cauculateDiscount( "José" , 300, false, false)
+cauculateDiscount( "José" , 2000, false, true)
